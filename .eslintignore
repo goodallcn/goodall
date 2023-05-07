@@ -1,0 +1,9 @@
+//.eslintignore eslint忽略文件和git忽略文件同理 需要忽略项目里面不想走eslint的地方
+ src/libs
+ node_modules
+ build/*.js
+ src/assets
+ src/utils/
+ public
+ dist
+ .eslintrc.js
