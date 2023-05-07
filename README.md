@@ -13,12 +13,12 @@ calligraphy_sql.sql是数据库文件
 
 ### Server是项目后端
 ```
-npm run serve
+npm run start
 ```
 
 ### 运行下面指令启动前端
 ```
-npm run start
+npm run serve 
 ```
 
 
