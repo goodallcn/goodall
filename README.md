@@ -39,7 +39,7 @@ npm run start
 
 - 商品详情页
 
-![](static-files/商品详情页.png)
+![](static-files/商品详情页面.png)
 
 - 购物车
 
