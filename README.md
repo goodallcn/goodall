@@ -2,23 +2,26 @@
 
 ## Project setup
 ```
-npm install
+npm install 
 ```
 
-### Compiles and hot-reloads for development
+```
+calligraphy_sql.sql是数据库文件
+前往db文件夹内的sql.js修改自己的数据库名称和密码
+```
+
+
+### Server是项目后端
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 运行下面指令启动前端
 ```
-npm run build
+npm run start
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+
 
 ### 项目参考
 ```
