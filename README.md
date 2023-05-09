@@ -14,7 +14,7 @@ npm run start
 
 ### 运行下面指令启动前端
 ```
-npm run start
+npm run serve
 ```
 
 ### 项目参考
