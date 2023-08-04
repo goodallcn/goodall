@@ -1,5 +1,5 @@
 # calligraphy-mall
-```
+
 ## Project setup
 ```
 npm install 
