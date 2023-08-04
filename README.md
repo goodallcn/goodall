@@ -1,8 +1,4 @@
 # calligraphy-mall
-
-项目体验地址（用移动端网页打开）
-```
-175.178.118.154
 ```
 ## Project setup
 ```
